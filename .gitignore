@@ -1,0 +1,21 @@
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ (in case)
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs & compiled files
+*.log
+*.class
+
+# JARs (important in your case)
+*.jar
